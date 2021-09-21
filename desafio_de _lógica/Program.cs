@@ -10,10 +10,6 @@ namespace desafio_de__lógica
   
         static void Main(string[] args)
         {
-            int Par;
-            int Impar;
-
-
             for (int i = 0; i < 1000000; i++)
             {
                 if (i % 2 == 0)
